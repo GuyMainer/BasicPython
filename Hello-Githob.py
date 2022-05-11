@@ -1,2 +1,3 @@
-print ('Hello Githob')
-print*('Hello World')
+print('Hello Githob')
+
+print('by Guy Mainer')
